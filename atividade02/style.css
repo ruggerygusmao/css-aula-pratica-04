@@ -1,0 +1,53 @@
+/*--- ATIVIDADE 02: PRÁTICA 01 ---*/
+main{
+    display: flex;
+    text-align: center;
+    color: #fff;
+}
+
+#col1{
+    width: 300px;
+    height: 300px;
+    background-color: #342F2D;
+}
+
+#col2{
+    width: 300px;
+    background-color: #A0B25F;
+}
+
+#col3{
+    width: 300px;
+    background-color: #B8BFB1;
+}
+
+/*--- ATIVIDADE 02: PRÁTICA 02 ---*/
+
+#div-centralizada{
+    width: 600px;
+    height: 200px;
+    background-color: #A0B25F;
+    margin: 0 auto;
+}
+
+/*--- ATIVIDADE 02: PRÁTICA 03 ---*/
+
+#main{
+    display: flex;
+}
+#div1{
+    background-color: #342F2D;
+    color: #fff;
+    width: 30%;
+    height: 400px;
+    margin: 50px 0 0 15px;
+    padding: 2px 0 0 15px;
+}
+
+#div2{
+    background-color: #A0B25F;
+    color: #fff;
+    width: 50%;
+    margin: 0 20px 0 auto;
+    padding: 2px 0 0 15px;
+}
